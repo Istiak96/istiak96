@@ -1,35 +1,31 @@
-![I am harun181](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNe4C093MIlLleS_-vu3wg_vEKnELUfOfaRw&s)
+![I am Istiak Ahmed](https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
+<h3 align="center">Programmer | Web Developer | Student | Speed Learner</h3>
+<h4 align="center">A student of Dhaka Residential Model College</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: Next JS / Firebase/ Express JS / GSAP / Node JS / MongoDB / Tailwind Css/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning backend development
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 👨‍💻 All of my projects are available at [https://github.com/istiak96](https://github.com/istiak96)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📫 How to reach me **istiyakmobin96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Istiak Ahmed" height="30" width="40" /></a>
 <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
